@@ -1,4 +1,9 @@
 # Prototype-4-CWC
 Unity prototype
 
-![screenshot](https://raw.githubusercontent.com/Steedalion/Primitives/main/Screenshot.PNG)
+<img src='Screenshot.PNG' align="right" width=960>
+
+<img src='Screenshot.gif' align="right" width=960>
+
+
+<img src='Screenshot.webm' align="right" width=960>
