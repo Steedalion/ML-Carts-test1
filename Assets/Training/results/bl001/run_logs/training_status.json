@@ -1,0 +1,23 @@
+{
+    "Blocky": {
+        "checkpoints": [
+            {
+                "steps": 59896,
+                "file_path": "results\\bl001\\Blocky\\Blocky-59896.nn",
+                "reward": 0.14614800211826437,
+                "creation_time": 1603827545.3434293
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 59896,
+            "file_path": "results\\bl001\\Blocky.nn",
+            "reward": 0.14614800211826437,
+            "creation_time": 1603827545.3434293
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.1.0"
+    }
+}
